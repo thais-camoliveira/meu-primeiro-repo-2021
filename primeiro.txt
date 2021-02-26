@@ -1,7 +1,8 @@
-Hello world!
+﻿Hello world!
 
 Eu sou a linha 3
 Estou após o 3
 Eu não sou a linha 2
 A linha 7 é a próxima.
 A linha 6 é a anterior!
+
